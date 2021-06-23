@@ -9,5 +9,5 @@
 #### Les dejo el link de mi repositorio haciendo clic en la imagen
 
 <a href="https://github.com/IgnacioGamba/Curriculum-Gambino/blob/main/CV_Gambino.pdf">
-<img src="![image](https://user-images.githubusercontent.com/82124406/123155580-a8ccff80-d43e-11eb-89d8-a0ada6747e6a.png)">
+<img src="https://github.com/IgnacioGamba/Curriculum-Gambino/blob/main/Cvfoto.png">
 </a>
