@@ -10,5 +10,4 @@
 
 <a href="">
 <img src="">
-# Curriculum-Gambino
-Tecnicas y Herramientas Modernas
+
