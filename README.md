@@ -9,7 +9,7 @@
 #### Les dejo el link de mi repositorio haciendo clic en la imagen
 
 <a href="https://github.com/IgnacioGamba/Curriculum-Gambino/blob/main/CV_Gambino.pdf">
-<img src= "https://user-images.githubusercontent.com/82124406/123157938-8be5fb80-d441-11eb-82ba-977047cb54a0.png">
+<img src= "https://user-images.githubusercontent.com/82124406/123158706-83da8b80-d442-11eb-9d8a-c3e7b2e5040c.png">
 </a>
 
 # Traducción del capítulo 10
